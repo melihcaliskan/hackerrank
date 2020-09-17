@@ -7,10 +7,10 @@
 </p>
 
 * [10 Days of Statistics](#10-days-of-statistics)
-* *[30 Days of Javascript](#30-days-of-javascript)
+* [30 Days of Javascript](#30-days-of-javascript)
 * [30 Days of Code](#30-days-of-code)
 # 30 Days of Code
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/30%20Days%20of%20Code/Day%2000%20-%20Hello%2C%20World/Solution.java)|
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution](10-days-js/0-hello-world.js)|
