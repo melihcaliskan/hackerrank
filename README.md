@@ -15,16 +15,16 @@
 
 |No|                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|1|Simple Array Sum|10|[Solution](algorithms/warmup/simple-array-sum.js)|
-|2|A Very Big Sum|10|[Solution](algorithms/warmup/a-very-big-sum.js)|
-|3|Compare the Triplets|10|[Solution](algorithms/warmup/compare-the-triplets.js)|
-|4|Diagonal Difference|10|[Solution](algorithms/warmup/diagonal-difference.js)|
-|5|Plus Minus|10|[Solution](algorithms/warmup/plus-minus.js)|
-|6|Staircase|10|[Solution](algorithms/warmup/staircase.js)|
-|7|Mini-Max Sum|10|[Solution](algorithms/warmup/mini-max-sum.js)|
-|8|Birthday Cake Candles|10|[Solution](algorithms/warmup/birthday-cake-candles.js)|
-|9|Time Conversion|10|[Solution](algorithms/warmup/time-conversion.js)|
-|10|Grading Students|10|[Solution](algorithms/warmup/grading.js)|
+|1|Simple Array Sum|10|[Solution](../master/algorithms/warmup/simple-array-sum.js)|
+|2|A Very Big Sum|10|[Solution](../master/algorithms/warmup/a-very-big-sum.js)|
+|3|Compare the Triplets|10|[Solution](../master/algorithms/warmup/compare-the-triplets.js)|
+|4|Diagonal Difference|10|[Solution](../master/algorithms/warmup/diagonal-difference.js)|
+|5|Plus Minus|10|[Solution](../master/algorithms/warmup/plus-minus.js)|
+|6|Staircase|10|[Solution](../master/algorithms/warmup/staircase.js)|
+|7|Mini-Max Sum|10|[Solution](../master/algorithms/warmup/mini-max-sum.js)|
+|8|Birthday Cake Candles|10|[Solution](../master/algorithms/warmup/birthday-cake-candles.js)|
+|9|Time Conversion|10|[Solution](../master/algorithms/warmup/time-conversion.js)|
+|10|Grading Students|10|[Solution](../master/algorithms/warmup/grading.js)|
 
 # 30 Days of Code
 
