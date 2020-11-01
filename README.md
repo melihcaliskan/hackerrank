@@ -7,6 +7,7 @@
   Thanks to <a target="_blank" href="https://github.com/RodneyShag/HackerRank_solutions/commits?author=RodneyShag">Rodney Shag</a> for readme file.
 </p>
 
+* [Problem Solving](#problem-solving)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Javascript](#30-days-of-javascript)
 * [30 Days of Code](#30-days-of-code)
