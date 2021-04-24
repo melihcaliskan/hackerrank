@@ -15,12 +15,12 @@
 
 | Day | Challenge | Points | Solution
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|1| [0-data-types.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/0-data-types.js)|
-|2| [0-hello-world.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/0-hello-world.js)|
-|3| [1-arithmetic-operators.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/1-arithmetic-operators.js)|
-|4| [1-functions.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/1-functions.js)|
-|5| [2-loops.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/2-loops.js)|
-|6| [3-throw.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/3-throw.js)|
-|7| [4-classes.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/4-classes.js)|
-|8| [4-count-objects.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/4-count-objects.js)|
-|9| [4-rectangle.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/blob/master/10-days-js/4-rectangle.js)|
+|0| [0-data-types.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/0-data-types.js)|
+|0| [0-hello-world.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/0-hello-world.js)|
+|1| [1-arithmetic-operators.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/1-arithmetic-operators.js)|
+|1| [1-functions.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/1-functions.js)|
+|2| [2-loops.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/2-loops.js)|
+|3| [3-throw.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/3-throw.js)|
+|4| [4-classes.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-classes.js)|
+|4| [4-count-objects.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-count-objects.js)|
+|4| [4-rectangle.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-rectangle.js)|
