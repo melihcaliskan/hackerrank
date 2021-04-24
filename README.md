@@ -7,9 +7,8 @@
   Thanks to <a target="_blank" href="https://github.com/RodneyShag/HackerRank_solutions/commits?author=RodneyShag">Rodney Shag</a> for readme file.
 </p>
 
-* [Problem Solving](#problem-solving)
-* [10 Days of Javascript](#10-days-of-javascript)
-* [10 Days of Statistics](#10-days-of-statistics)
+- [10 Days of JavaScript](#10-days-of-javascript)
+- [10 Days of Statistics](#10-days-of-statistics)
 
 # 10 Days of JavaScript
 
@@ -24,3 +23,14 @@
 |4| [4-classes.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-classes.js)|
 |4| [4-count-objects.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-count-objects.js)|
 |4| [4-rectangle.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-js/4-rectangle.js)|
+
+# 10 Days of Statistics
+
+| Day | Challenge | Points | Solution
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|0| [0-mean-median-mode.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/0-mean-median-mode.js)|
+|0| [0-weighted-mean.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/0-weighted-mean.js)|
+|1| [1-interquartile-range.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/1-interquartile-range.js)|
+|1| [1-quartiles.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/1-quartiles.js)|
+|1| [1-standart-deviation.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/1-standart-deviation.js)|
+|4| [4-binomial-distribution.js](https://www.hackerrank.com/challenges/) | 10 | [Solution](/10-days-statistics/4-binomial-distribution.js)|
